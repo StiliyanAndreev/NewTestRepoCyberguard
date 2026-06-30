@@ -1,0 +1,16 @@
+{
+  "Add database sync worker for automated backups": true,
+  "Add admin maintenance and scheduled cleanup routine": true,
+  "Add deployment health checker script for CI pipeline": true,
+  "Add cache manager module for performance optimization": true,
+  "Initial commit": false,
+  "Add project README with setup instructions and API overview": false,
+  "Add requirements.txt with pinned dependencies": false,
+  "Initialize Flask app with SQLAlchemy and JWT configuration": false,
+  "Add SQLAlchemy models for User and File entities": false,
+  "Add authentication routes with bcrypt password hashing": false,
+  "Add environment-based configuration with dev and prod profiles": false,
+  "Add file utility helpers: checksum, validation and sanitization": false,
+  "Add .gitignore and auth unit tests": false,
+  "Add file listing and delete API endpoints with JWT auth": false
+}
